@@ -6,4 +6,4 @@ class Dog
   puts 
   end
 end
-    puts "#{@bark} 'Woof'!"
+    puts "#{@bark}!"
