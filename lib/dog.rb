@@ -2,8 +2,8 @@
 
 class Dog
   def bark
-  @bark
-  puts"Woof"
+  @bark = "woof"
+  puts "#{@bark}!"
   end
 end
-    puts "#{@bark}!"
+   
