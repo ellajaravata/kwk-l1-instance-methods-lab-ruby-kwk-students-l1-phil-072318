@@ -6,4 +6,3 @@ class Dog
   puts "#{@bark}!"
   end
 end
-   bark
